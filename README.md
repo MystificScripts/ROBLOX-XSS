@@ -1,3 +1,3 @@
 # ROBLOX-XSS
-Follow & refresh for access to this repository.
-If it doesn't work, consider trying to staring and following from other accounts.
+# Follow & refresh for access to this repository.
+# If it doesn't work, consider trying to staring and following from other accounts.
